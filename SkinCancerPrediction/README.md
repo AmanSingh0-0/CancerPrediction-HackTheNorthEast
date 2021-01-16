@@ -12,6 +12,9 @@ Build and train a Convolutional Neural Network to detect if skin scans show sign
 ## Next Steps
 * A next step that could be taken with this project is potentially pairing it with a mobile app so that photos can be taken by users and predictions can be made in real-time about the photos in question. The back end code is pretty much complete, so if the regression equation is exported and and paired with the front end code, a skin cancer detection app could be very possible.
 
+## Dataset link
+https://www.kaggle.com/fanconic/skin-cancer-malignant-vs-benign
+
 
 ## Acknowledgments
 * Thank you to Hack The NorthEast:Beyond Team and Devpost for hosting this event!
